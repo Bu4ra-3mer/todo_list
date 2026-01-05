@@ -1,0 +1,42 @@
+name: todo_list
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  internet_connection_checker: ^1.0.0
+  cupertino_icons: ^1.0.8
+  get_it: ^8.1.0
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.7
+  dartz: ^0.10.1
+  connectivity_plus: ^6.0.3
+  parse_server_sdk_flutter: ^9.0.0
+  http: ^0.13.6
+  freezed: ^2.4.7
+  freezed_annotation: ^2.4.1
+  injectable: ^2.5.1
+  auto_route: ^7.9.2
+  build: ^2.1.0
+  build_resolvers: ^2.4.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  mockito: ^5.4.0
+  source_gen: ^1.5.0
+  build_runner: ^2.1.0
+  analyzer: ^6.11.0
+  auto_route_generator: ^7.3.2
+  injectable_generator: ^2.6.2  
+
+flutter:
+  uses-material-design: true
