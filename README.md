@@ -1,16 +1,38 @@
-# num_trivia
+# todo_list 📝
 
-A new Flutter project.
+A Flutter To-Do List application built using Clean Architecture and Bloc/Cubit.
 
-## Getting Started
+## 📱 App Demo
+https://github.com/user-attachments/assets/09ad7c78-9aab-4e22-9c00-c1678cded939
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- User authentication (Sign Up & Sign In)
+- Anonymous sign-in (Guest mode)
+- Add and view tasks
+- Persistent data using Parse Server
+- Clean and simple UI
+- Error handling with Either & Failures
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter & Dart
+- Clean Architecture
+- Bloc / Cubit
+- Freezed
+- Equatable
+- Injectable & Dependency Injection
+- Parse Server SDK
+- Auto Route
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔌 APIs & Services Used
+- Parse Server (Authentication & Data storage)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧱 Architecture
+- Data Layer (Models, DataSources)
+- Domain Layer (Entities, Repositories, Use Cases)
+- Presentation Layer (Cubit, UI)
+
+## 📦 Getting Started
+This project is a Flutter application.
+
+For help getting started with Flutter development, view the  
+[online documentation](https://docs.flutter.dev/).
