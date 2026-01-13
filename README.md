@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/09ad7c78-9aab-4e22-9c00-c1678cded939
 - Domain Layer (Entities, Repositories, Use Cases)
 - Presentation Layer (Cubit, UI)
 
-## 📦 Getting Started
+
 This project is a Flutter application.
 
 For help getting started with Flutter development, view the  
