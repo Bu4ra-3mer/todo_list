@@ -32,7 +32,3 @@ https://github.com/user-attachments/assets/09ad7c78-9aab-4e22-9c00-c1678cded939
 - Presentation Layer (Cubit, UI)
 
 
-This project is a Flutter application.
-
-For help getting started with Flutter development, view the  
-[online documentation](https://docs.flutter.dev/).
